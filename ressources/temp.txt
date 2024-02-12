@@ -1,2 +1,3 @@
 Digital Stepper Drive 1.0-3.2A 10-30VDC for Nema 17, 23 Stepper Moto
+Nema 17 L=39mm Rapport d'engrenage 100:1 Boîte de vitesses planétaire
 
